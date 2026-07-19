@@ -1,0 +1,6 @@
+{
+  "name": "Gap Calculator Pro",
+  "description": "Gap Calculator Pro - A premium offline-first gap calculator with negative/positive results, summary matching, and SharedPreferences storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
